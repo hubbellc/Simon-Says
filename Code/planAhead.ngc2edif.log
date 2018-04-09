@@ -1,0 +1,174 @@
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Final_top.ngc ...
+WARNING:NetListWriters:298 - No output is written to Final_top.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+  finished :Prep
+Writing EDIF netlist file Final_top.edif ...
+ngc2edif: Total memory usage is 78428 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Final_top.ngc ...
+WARNING:NetListWriters:298 - No output is written to Final_top.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus C<3 : 1> on block Final_top is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus MaxCount<26 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus MaxCount_mux0000<25 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_bottomline_cmp_le0000_lut<11 :
+   0> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline<125 : 0> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline_mux0000<125 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   m1/Mcompar_old_simon_btn0_9_cmp_le0000_lut<6 : 0> on block Final_top is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m1/Mcompar_timer_cmp_ge0000_lut<6 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m2/Mcompar_spkr_cmp_gt0000_lut<16 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m3/Madd_next_address_addsub0000_cy<4 :
+   2> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/lcd1/Mcompar_timer_cmp_ge0000_lut<9 :
+   1> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/line1<126 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_line1<126 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_pending_state<13 : 2> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_state<13 : 0> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/pending_state<13 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline<125 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline_mux0000<125 : 24> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file Final_top.edif ...
+ngc2edif: Total memory usage is 78512 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Final_top.ngc ...
+WARNING:NetListWriters:298 - No output is written to Final_top.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus MaxCount<27 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus MaxCount_mux0000<25 : 12> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_bottomline_cmp_le0000_lut<11 :
+   0> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline<125 : 1> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline_mux0000<125 : 32> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   m1/Mcompar_old_simon_btn0_10_cmp_le0000_lut<6 : 0> on block Final_top is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m1/Mcompar_timer_cmp_ge0000_lut<6 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m2/Mcompar_spkr_cmp_gt0000_lut<16 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m3/Madd_next_address_addsub0000_cy<4 :
+   2> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/lcd1/Mcompar_timer_cmp_ge0000_lut<9 :
+   1> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/line1<126 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/line2<126 : 1> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_line1<126 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_line2<126 : 1> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_pending_state<13 : 2> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_state<13 : 0> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/pending_state<13 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline<125 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline_mux0000<125 : 16> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file Final_top.edif ...
+ngc2edif: Total memory usage is 77488 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Final_top.ngc ...
+WARNING:NetListWriters:298 - No output is written to Final_top.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus MaxCount<27 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus MaxCount_mux0000<25 : 12> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_bottomline_cmp_le0000_lut<11 :
+   0> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline<125 : 1> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus bottomline_mux0000<125 : 32> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   m1/Mcompar_old_simon_btn0_10_cmp_le0000_lut<6 : 0> on block Final_top is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m1/Mcompar_timer_cmp_ge0000_lut<6 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m2/Mcompar_spkr_cmp_gt0000_lut<16 : 0>
+   on block Final_top is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus m3/Madd_next_address_addsub0000_cy<4 :
+   2> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/lcd1/Mcompar_timer_cmp_ge0000_lut<9 :
+   1> on block Final_top is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/line1<126 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/line2<126 : 1> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_line1<126 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_line2<126 : 1> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_pending_state<13 : 2> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/next_state<13 : 0> on block Final_top
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus m3/pending_state<13 : 0> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline<125 : 0> on block Final_top is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus topline_mux0000<125 : 16> on block
+   Final_top is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file Final_top.edif ...
+ngc2edif: Total memory usage is 77488 kilobytes
+

@@ -1,0 +1,55 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Dec 10 17:19:06 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "simon_btns_n<0>" LOCATE = SITE "E11" LEVEL 1;
+COMP "simon_btns_n<1>" LOCATE = SITE "A11" LEVEL 1;
+COMP "simon_btns_n<2>" LOCATE = SITE "B14" LEVEL 1;
+COMP "simon_btns_n<3>" LOCATE = SITE "B13" LEVEL 1;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "lcd_data<0>" LOCATE = SITE "F7" LEVEL 1;
+COMP "lcd_data<1>" LOCATE = SITE "C5" LEVEL 1;
+COMP "lcd_data<2>" LOCATE = SITE "D5" LEVEL 1;
+COMP "lcd_data<3>" LOCATE = SITE "B6" LEVEL 1;
+COMP "lcd_data<4>" LOCATE = SITE "C4" LEVEL 1;
+COMP "lcd_data<5>" LOCATE = SITE "C3" LEVEL 1;
+COMP "lcd_data<6>" LOCATE = SITE "A4" LEVEL 1;
+COMP "lcd_data<7>" LOCATE = SITE "B4" LEVEL 1;
+COMP "spkr" LOCATE = SITE "B16" LEVEL 1;
+COMP "segments_n<0>" LOCATE = SITE "L18" LEVEL 1;
+COMP "segments_n<1>" LOCATE = SITE "F18" LEVEL 1;
+COMP "segments_n<2>" LOCATE = SITE "D17" LEVEL 1;
+COMP "segments_n<3>" LOCATE = SITE "D16" LEVEL 1;
+COMP "segments_n<4>" LOCATE = SITE "G14" LEVEL 1;
+COMP "segments_n<5>" LOCATE = SITE "J17" LEVEL 1;
+COMP "segments_n<6>" LOCATE = SITE "H14" LEVEL 1;
+COMP "segments_n<7>" LOCATE = SITE "C17" LEVEL 1;
+COMP "cheat" LOCATE = SITE "R17" LEVEL 1;
+COMP "reset" LOCATE = SITE "G18" LEVEL 1;
+COMP "lcd_enable" LOCATE = SITE "E7" LEVEL 1;
+COMP "nexys_btns<0>" LOCATE = SITE "B18" LEVEL 1;
+COMP "nexys_btns<1>" LOCATE = SITE "D18" LEVEL 1;
+COMP "nexys_btns<2>" LOCATE = SITE "E18" LEVEL 1;
+COMP "nexys_btns<3>" LOCATE = SITE "H13" LEVEL 1;
+COMP "lcd_regsel" LOCATE = SITE "C7" LEVEL 1;
+COMP "lcd_read" LOCATE = SITE "A6" LEVEL 1;
+COMP "simon_led0<0>" LOCATE = SITE "E10" LEVEL 1;
+COMP "simon_led0<1>" LOCATE = SITE "B11" LEVEL 1;
+COMP "simon_led0<2>" LOCATE = SITE "C11" LEVEL 1;
+COMP "simon_led1<0>" LOCATE = SITE "D10" LEVEL 1;
+COMP "simon_led1<1>" LOCATE = SITE "A10" LEVEL 1;
+COMP "simon_led1<2>" LOCATE = SITE "B10" LEVEL 1;
+COMP "simon_led2<0>" LOCATE = SITE "A14" LEVEL 1;
+COMP "simon_led2<1>" LOCATE = SITE "C14" LEVEL 1;
+COMP "simon_led2<2>" LOCATE = SITE "D14" LEVEL 1;
+COMP "simon_led3<0>" LOCATE = SITE "E12" LEVEL 1;
+COMP "simon_led3<1>" LOCATE = SITE "F12" LEVEL 1;
+COMP "simon_led3<2>" LOCATE = SITE "A13" LEVEL 1;
+COMP "anodes_n<0>" LOCATE = SITE "F17" LEVEL 1;
+COMP "anodes_n<1>" LOCATE = SITE "H17" LEVEL 1;
+COMP "anodes_n<2>" LOCATE = SITE "C18" LEVEL 1;
+COMP "anodes_n<3>" LOCATE = SITE "F15" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

@@ -1,0 +1,12 @@
+MO seg_ctrl NULL ../Lab_11_part_IV/remote_sources/_/exp/seg_ctrl.v vlg57/seg__ctrl.bin 1449796712
+MO seven_seg NULL ../exp/seven_seg.v vlg6F/seven__seg.bin 1449796712
+MO Final_top NULL Final_top.v vlg6C/_final__top.bin 1449796714
+MO add3 NULL ../Lab_11_part_IV/add3.v vlg48/add3.bin 1449796712
+MO speaker NULL ../Lab_10/speaker.v vlg0B/speaker.bin 1449796712
+MO lcd_string NULL ../Lab11/lcd_string.v vlg05/lcd__string.bin 1449796713
+MO prng NULL ../Lab_10/prng.v vlg5F/prng.bin 1449796713
+MO simon_leds_ctrl NULL ../Lab_10/simom_leds_ctrl.v vlg51/simon__leds__ctrl.bin 1449796713
+MO debouncer NULL ../Lab_10/debouncer.v vlg03/debouncer.bin 1449796713
+MO BCD_converter NULL ../Lab_11_part_IV/BCD_converter.v vlg28/_b_c_d__converter.bin 1449796712
+MO LFSR NULL LFSR.v vlg63/_l_f_s_r.bin 1449796712
+MO lcd_ctrl NULL ../Lab_11_part_IV/lcd_ctrl.v vlg6B/lcd__ctrl.bin 1449796712

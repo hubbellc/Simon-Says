@@ -1,0 +1,30 @@
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final_top.ucf -p xc3s500e-fg320-4 Final_top.ngc Final_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Final_top_map.ncd Final_top.ngd Final_top.pcf 
+par -w -intstyle ise -ol high -t 1 Final_top_map.ncd Final_top.ncd Final_top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Final_top.twx Final_top.ncd -o Final_top.twr Final_top.pcf -ucf Final_top.ucf 
+bitgen -intstyle ise -f Final_top.ut Final_top.ncd 
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final_top.ucf -p xc3s500e-fg320-4 Final_top.ngc Final_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Final_top_map.ncd Final_top.ngd Final_top.pcf 
+par -w -intstyle ise -ol high -t 1 Final_top_map.ncd Final_top.ncd Final_top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Final_top.twx Final_top.ncd -o Final_top.twr Final_top.pcf -ucf Final_top.ucf 
+bitgen -intstyle ise -f Final_top.ut Final_top.ncd 
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final_top.ucf -p xc3s500e-fg320-4 Final_top.ngc Final_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Final_top_map.ncd Final_top.ngd Final_top.pcf 
+par -w -intstyle ise -ol high -t 1 Final_top_map.ncd Final_top.ncd Final_top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Final_top.twx Final_top.ncd -o Final_top.twr Final_top.pcf -ucf Final_top.ucf 
+bitgen -intstyle ise -f Final_top.ut Final_top.ncd 
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final_top.ucf -p xc3s500e-fg320-4 Final_top.ngc Final_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Final_top_map.ncd Final_top.ngd Final_top.pcf 
+par -w -intstyle ise -ol high -t 1 Final_top_map.ncd Final_top.ncd Final_top.pcf 
+bitgen -intstyle ise -f Final_top.ut Final_top.ncd 
+xst -intstyle ise -ifn "H:/Final_Project/Final_top.xst" -ofn "H:/Final_Project/Final_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final_top.ucf -p xc3s500e-fg320-4 Final_top.ngc Final_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Final_top_map.ncd Final_top.ngd Final_top.pcf 
+par -w -intstyle ise -ol high -t 1 Final_top_map.ncd Final_top.ncd Final_top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Final_top.twx Final_top.ncd -o Final_top.twr Final_top.pcf -ucf Final_top.ucf 
+bitgen -intstyle ise -f Final_top.ut Final_top.ncd 

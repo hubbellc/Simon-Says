@@ -1,0 +1,59 @@
+
+
+NET "clk" LOC = B8;
+NET "simon_led0[0]" LOC = E10;
+NET "simon_led0[1]" LOC = B11;
+NET "simon_led0[2]" LOC = C11;
+NET "simon_led1[0]" LOC = D10;
+NET "simon_led1[1]" LOC = A10;
+NET "simon_led1[2]" LOC = B10;
+NET "simon_led2[0]" LOC = A14;
+NET "simon_led2[1]" LOC = C14;
+NET "simon_led2[2]" LOC = D14;
+NET "simon_led3[0]" LOC = E12;
+NET "simon_led3[1]" LOC = F12;
+NET "simon_led3[2]" LOC = A13;
+
+
+NET "simon_btns_n[0]" LOC = E11;
+NET "simon_btns_n[1]" LOC = A11;
+NET "simon_btns_n[2]" LOC = B14;
+NET "simon_btns_n[3]" LOC = B13;
+
+NET "nexys_btns[0]" LOC = B18;
+NET "nexys_btns[1]" LOC = D18;
+NET "nexys_btns[2]" LOC = E18;
+NET "nexys_btns[3]" LOC = H13;
+
+NET "reset" LOC = G18;
+NET "cheat" LOC = R17;
+
+NET "lcd_regsel" LOC = C7;
+NET "lcd_read" LOC = A6;
+NET "lcd_enable" LOC = E7;
+NET "lcd_data[0]" LOC = F7;
+NET "lcd_data[1]" LOC = C5;
+NET "lcd_data[2]" LOC = D5;
+NET "lcd_data[3]" LOC = B6;
+NET "lcd_data[4]" LOC = C4;
+NET "lcd_data[5]" LOC = C3;
+NET "lcd_data[6]" LOC = A4;
+NET "lcd_data[7]" LOC = B4;
+
+NET "spkr" LOC = B16;
+
+# PlanAhead Generated physical constraints 
+
+NET "anodes_n[0]" LOC = F17;
+NET "anodes_n[1]" LOC = H17;
+NET "anodes_n[2]" LOC = C18;
+NET "anodes_n[3]" LOC = F15;
+NET "segments_n[0]" LOC = L18;
+NET "segments_n[1]" LOC = F18;
+NET "segments_n[2]" LOC = D17;
+NET "segments_n[3]" LOC = D16;
+NET "segments_n[4]" LOC = G14;
+NET "segments_n[5]" LOC = J17;
+NET "segments_n[6]" LOC = H14;
+NET "segments_n[7]" LOC = C17;
+
